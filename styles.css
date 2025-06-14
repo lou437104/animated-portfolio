@@ -34,3 +34,7 @@ body{
         height: auto;
     }
 }
+.left img {
+    width: 100px;
+    height: auto; /* Maintains the aspect ratio */
+}
