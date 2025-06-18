@@ -36,6 +36,17 @@ header{
     z-index: 999;
 }
 
+.left{
+    display: flex;
+    align-items: center;
+}
+
+.left img{
+    width: 40px;
+    margin: 0 15px;
+    
+}
+
 
 
 
